@@ -1,2 +1,2 @@
 ## Watch my contribution graph get eaten by the snake 🐍
-![Contributions snake gif](https://github.com/hmk8386/hmk8386/blob/output/contributions-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hmk8386/hmk8386/output/contributions-snake.svg)
